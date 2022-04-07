@@ -1,4 +1,4 @@
-# Kafka-Challene
+# Kafka-Python
 Example of Kafka-Python App to produce and consume json files
 
 ## Environment Setup

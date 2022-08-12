@@ -10,7 +10,7 @@ After downloading the Kafka, navigate terminal to the downloaded file, then:
 (in case error, download and install binary version)
 2. Start the Kafka broker service: bin/kafka-server-start.sh config/server.properties
 3. Install kafka-python: pip install kafka-python
-4. Open the jupyter_notebook file and run the cells.
+4. Open the jupyter_notebook file and run the script.
 
 
 ### Hints:
